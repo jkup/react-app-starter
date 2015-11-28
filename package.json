@@ -4,6 +4,7 @@
   "description": "A starter template for webpack and react",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server --content-base build/",
     "build": "webpack"
   },
   "repository": {
@@ -27,6 +28,7 @@
     "webpack": "^1.12.1"
   },
   "dependencies": {
-    "react": "^0.13.3"
+    "react": "^0.13.3",
+    "webpack-dev-server": "^1.14.0"
   }
 }

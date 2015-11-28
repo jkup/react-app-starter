@@ -1,11 +1,10 @@
-# webpack-react-starter
+# Webpack React Starter Kit
 
-A starter template for webpack and react
-
-## Installation
+## Getting Started
 
     git clone https://github.com/jkup/webpack-react-starter.git
+    cd webpack-react-starter
     npm install
-    npm run build
+    npm start
 
-Then just open build/index.html in any browser
+Then just open http://localhost:8080 in your browser!
