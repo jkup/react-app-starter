@@ -1,5 +1,7 @@
 # Webpack React Starter Kit
 
+### This repository is no longer maintained. I strongly recommend using [create-react-app](https://github.com/facebookincubator/create-react-app) instead.
+
 ## Getting Started
 
     git clone https://github.com/jkup/webpack-react-starter.git
